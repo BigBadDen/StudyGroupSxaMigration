@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudyGroupSxaMigration.Logging\StudyGroupSxaMigration.Logging.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore8Constants\StudyGroupSxaMigration.Sitecore8Constants.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore8Models\StudyGroupSxaMigration.Sitecore8Models.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.SitecoreCommon\StudyGroupSxaMigration.SitecoreCommon.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.8.5" />
+  </ItemGroup>
+
+</Project>

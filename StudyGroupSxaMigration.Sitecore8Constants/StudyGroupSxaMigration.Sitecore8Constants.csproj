@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>StudyGroupSxaMigration.Sitecore8Constants</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Websites\NonV2Sites\**" />
+    <EmbeddedResource Remove="Websites\NonV2Sites\**" />
+    <None Remove="Websites\NonV2Sites\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudyGroupSxaMigration.AppSettings\StudyGroupSxaMigration.AppSettings.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore8Models\StudyGroupSxaMigration.Sitecore8Models.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.SitecoreCommon\StudyGroupSxaMigration.SitecoreCommon.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudyGroupSxaMigration.Logging\StudyGroupSxaMigration.Logging.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore8Constants\StudyGroupSxaMigration.Sitecore8Constants.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore8Models\StudyGroupSxaMigration.Sitecore8Models.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore8\StudyGroupSxaMigration.Sitecore8.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore9Constants\StudyGroupSxaMigration.Sitecore9Constants.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore9Models\StudyGroupSxaMigration.Sitecore9Models.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.Sitecore9\StudyGroupSxaMigration.Sitecore9.csproj" />
+    <ProjectReference Include="..\StudyGroupSxaMigration.SitecoreCommon\StudyGroupSxaMigration.SitecoreCommon.csproj" />
+  </ItemGroup>
+
+</Project>

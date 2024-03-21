@@ -1,0 +1,2 @@
+If you create any items in Waikato v2 in Sitecore to assist with testing (e.g. in cases where the widget that you’re migrating doesn’t already exist in Sitecore 8 Waikato),
+please could you package up the items and add to this folder. 

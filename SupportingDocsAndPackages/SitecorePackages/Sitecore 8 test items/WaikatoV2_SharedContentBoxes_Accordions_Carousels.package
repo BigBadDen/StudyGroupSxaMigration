@@ -1,0 +1,84 @@
+<project site="studygroup.local" format="Zip Package" targetfilefolder="wwwroot">
+  <Metadata>
+    <metadata>
+      <PackageName>WaikatoV2_SharedContentBoxes_Accordions_Carousels</PackageName>
+      <Author />
+      <Version />
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Content Boxes/{B9938184-1ED7-4909-A7D4-06FD0A73EBB6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Content Boxes/Footer Text Content Box/{A69D7637-251F-4775-BBDE-070D8E6C30BF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Content Boxes/Header Text Content Box/{0978923B-C134-401F-91DF-09572AD4A713}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/{2F58371E-E7D2-4105-A697-21FC87CFF60E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 1/{39819888-0535-426F-B1D4-627230A61DD5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 2/{2F87A4BB-9E2B-4A42-94F8-2F30DD88497F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 1/DG1 Accordion item 1/{036FE3F4-979A-44EA-8F1C-882C10292D34}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 1/DG1 Accordion items 2/{08573BCB-4B6F-4C30-8C1B-9CF9B21BB9A9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 2/DG 2 Accordion item 1/{600CA4FC-D2AF-47E1-9A10-6F92F29D95A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/{8AC65858-C615-41DE-8892-2584A816575C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/Test Shared Carousel/{0F642D1A-EA78-4525-81A9-0A637E27EA82}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/Test Shared Carousel/Carousel Slide 1/{32EE8970-743D-4718-9364-1AFCD7265FA5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/Test Shared Carousel/Carousel Slide 2/{5297CD13-8C63-4A12-B42B-033E84BC0CC0}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Items</Name>
+    </xitems>
+    <xfiles>
+      <Entries />
+      <Converter>
+        <FileToEntryConverter>
+          <Root />
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

@@ -1,0 +1,143 @@
+<project site="studygroup.local" format="Zip Package" targetfilefolder="wwwroot">
+  <Metadata>
+    <metadata>
+      <PackageName>Waikato v2 local Shared Items for testing</PackageName>
+      <Author />
+      <Version />
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/{1692E4A5-7A7B-4963-B24E-C6578C1349F5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Forms/{CB75BE40-EA10-4A09-9F08-6BD7AAD1E4A1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Header and Footer Links/{ED415011-4174-422E-87E5-E479C36CDE76}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Languages/{DE0E60D7-E085-4D72-979B-A622461C8C76}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/{3BAB2074-883C-4432-8A88-2016A4C62874}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Progression Routes/{41754276-F6B9-4D66-9930-910178885FEB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/{2F58371E-E7D2-4105-A697-21FC87CFF60E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Button Groups/{0FD6E965-D882-4338-8735-D1093B17FFA7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/{8AC65858-C615-41DE-8892-2584A816575C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Content Boxes/{B9938184-1ED7-4909-A7D4-06FD0A73EBB6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Galleries/{DA77281D-57CF-458E-9789-9766282B9044}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Hero Content/{E44591AD-A501-4522-A6EA-D2B95BD93EC5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Maps/{E6E026C0-BE4F-4E69-8571-CC944C16B9BF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Tabs/{02E59BA4-C5C6-4496-A202-926DDBC33D22}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/{B670ECC7-7EB3-4710-A9B1-03CEA3F9798A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Videos/{7D38974C-439D-4AA3-80B5-0938F2717B1C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Widgets/{63880D67-0016-4800-8182-A5C62191E544}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Social Media/{91D7D2BC-610B-425E-8F7E-8E86AA3ECF7F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Forms/Find Local Agents/{3050273F-4F10-4A94-82A7-50A330874DE6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Forms/Enquiry Form/{539F6133-E9E6-45C6-A6CE-090E5FC14CDD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Forms/BrochureRequestForm/{0C82AA81-6A6F-4089-A7C5-1A11CD107A1D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Forms/Application Form/{29346B0C-3E50-4C32-ADA6-1172D068BEE3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Forms/BrochureRequestForm/prospectus/{1C565F2D-EFCF-4539-ADA4-3454CD25C22D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Header and Footer Links/Header Links/{071F4BB1-29BC-43F5-A466-D68BD5CC0EC7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Header and Footer Links/Footer Links/{A01A22F8-9103-4AA3-8A83-F9F06806DE12}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Languages/Language Links/{0F21A9E1-3E4C-453E-81A9-D1D1349B7843}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Languages/Language Links/AR/{F9E82374-0B7B-41F0-80DF-E361D6E6E706}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Languages/Language Links/CN/{DE306000-6B9B-44B3-96DB-95CA9DC5DF4E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Languages/Language Links/EN/{A2B0CE37-E201-4229-A7C4-D0D04C172E3E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Accordions/{C99506BF-B0F6-4D52-ACCE-F439ED7F4570}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Button Groups/{5A4C77D8-E459-4910-9D19-5591D0EFB7E8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Carousels/{58354780-E30E-4F95-A5DA-1D4F23D7B060}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Content Boxes/{4163B856-EBC5-43C4-A671-E3235BC61FB0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Galleries/{89C67A66-4D80-43F2-8890-DBED924EAEB7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Heroes/{BAD760C7-1942-4E59-A7A8-20FA0D71DD36}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Maps/{B69FF220-9D28-485F-A562-857C9105BE8F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Tabs/{E1AFC462-6F17-4DA9-A0BB-0BAC2430FF17}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Testimonials/{CEFB5F7C-3D8D-40AA-BF7F-8197A12F805F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Videos/{36AC4570-D68C-4E06-AF1F-5DA9164FCFB2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Page Items/Widgets/{693E70BE-E2C9-4865-9715-A998377C8539}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Progression Routes/ProgressionRoutes/{EF234246-CDD6-4371-AB02-4D094610B087}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 1/{39819888-0535-426F-B1D4-627230A61DD5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 2/{2F87A4BB-9E2B-4A42-94F8-2F30DD88497F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 1/DG1 Accordion item 1/{036FE3F4-979A-44EA-8F1C-882C10292D34}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 1/DG1 Accordion items 2/{08573BCB-4B6F-4C30-8C1B-9CF9B21BB9A9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Accordions/Accordion Container DG 2/DG 2 Accordion item 1/{600CA4FC-D2AF-47E1-9A10-6F92F29D95A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Button Groups/Button Group/{F85CA383-03C8-406C-94C8-9C95E3755AEB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Button Groups/Button Group/Apply now/{46C00928-B9F4-4A2B-9B01-CE5EFDE15828}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Button Groups/Button Group/Contact us/{BBE53F94-3474-4118-BE32-7D7FC8C24887}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/Test Shared Carousel/{0F642D1A-EA78-4525-81A9-0A637E27EA82}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/Test Shared Carousel/Carousel Slide 1/{32EE8970-743D-4718-9364-1AFCD7265FA5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Carousels/Test Shared Carousel/Carousel Slide 2/{5297CD13-8C63-4A12-B42B-033E84BC0CC0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Content Boxes/Footer Text Content Box/{A69D7637-251F-4775-BBDE-070D8E6C30BF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Content Boxes/Header Text Content Box/{0978923B-C134-401F-91DF-09572AD4A713}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Maps/Campus Map/{C06A553A-DB42-4DF5-BE90-CEA9EFF199EA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Maps/New Zealand Map/{5817358A-4C82-43B5-BF32-7440D6DD10BC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/Alesha/{00FB2F19-7486-4666-8EBD-148F30B8C530}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/Christian/{E548E925-BAFB-4733-982E-E7B7869AAD46}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/Frank/{78F317F8-3561-4063-8430-E8850A671E07}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/Maryam/{929675FF-0502-4192-95CA-494C77B3FFF9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/Xun Zeng/{0E570724-4A94-40C0-8C55-12A14765F4C8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Testimonials/Yuxin/{97981076-069F-4F25-A857-F7AA94B4F1DF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Videos/Location Video/{9DEA27A9-64B0-4CCD-8D99-03EF2C538440}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Videos/Proposition Video/{FCB35B3F-C297-4CAF-936B-2972D46EB714}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Videos/Study In video/{011BB959-907B-4266-B299-924E8BF138E3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Videos/Study video/{1B8451FF-64C3-4B9B-93A0-3B11F663512A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Widgets/Entry requirements/{9745C5F1-E230-4DD5-8047-FC5B1F507CD4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Widgets/Fees/{FE6BD51B-4737-4D5B-BD64-4DC662161595}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Shared Widgets/Visa information/{9F23D60D-F43C-45F3-B6DD-F461B15C58FC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Social Media/Social Media Container/{B797F8A6-389C-4076-A12C-68492F11BF20}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Social Media/Social Media Container/FB/{75746491-8C4E-4D40-BA71-AD6365038EAD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/ISC/Waikato V2/Shared Items/Social Media/Social Media Container/YT/{6F5D4813-7DD0-4DBD-987E-DB483A3B34ED}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Items</Name>
+    </xitems>
+    <xfiles>
+      <Entries />
+      <Converter>
+        <FileToEntryConverter>
+          <Root />
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
